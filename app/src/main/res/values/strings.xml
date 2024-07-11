@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Palindrome Checker</string>
+    <string name="word_label">Input Word</string>
+    <string name="result_text_palindrome">The word is a palindrome.</string>
+    <string name="result_text_not_palindrome">The word is not a palindrome.</string>
+    <string name="card_text">
+                                A palindrome is a word, phrase, number, or other sequence of characters
+                                that reads the same forward and backward (ignoring spaces, punctuation,
+                                and capitalization).</string>
+</resources>
